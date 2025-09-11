@@ -7,6 +7,9 @@ import { ModeToggle } from "@/components/mode-toggle"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
+  icons: {
+    icon: "/favicon.ico",
+  },
   title: "Yago Adrio - Software Developer",
   description: "Portfolio of Yago Adrio, a Full Stack Developer specializing in Node web applications.",
 }
