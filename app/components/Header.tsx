@@ -71,24 +71,24 @@ export default function Header() {
       <nav className="container px-6 py-4 mx-auto">
         <ul className="flex justify-center space-x-6">
           {[
-            ["about", "About"],
-            ["experience", "Experience"],
+            ["about", "Sobre mí"],
+            ["experience", "Experiencia"],
             ["skills", "Skills"],
-            ["services", "Services"],
-            ["education", "Education"],
-            ["contact", "Contact"],
+            ["services", "Servicios"],
+            ["portfolio", "Portafolio"],
+            ["education", "Educación"],
+            ["contact", "Contacto"],
           ].map(([id, label]) => (
             <li key={id}>
               <button
                 onClick={() => scrollToSection(id)}
                 className={`
                   transition-colors duration-300
-                  ${
-                    activeSection === id
-                      ? "text-blue-600 dark:text-blue-400"
-                      : theme === "dark"
-                        ? "text-gray-300 hover:text-white"
-                        : "text-gray-800 hover:text-blue-600"
+                  ${activeSection === id
+                    ? "text-blue-600 dark:text-blue-400"
+                    : theme === "dark"
+                      ? "text-gray-300 hover:text-white"
+                      : "text-gray-800 hover:text-blue-600"
                   }
                 `}
               >

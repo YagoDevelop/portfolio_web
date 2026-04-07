@@ -5,12 +5,13 @@ import { motion } from "framer-motion"
 
 const sections = [
   { id: "hero", label: "Home" },
-  { id: "about", label: "About" },
-  { id: "experience", label: "Experience" },
+  { id: "about", label: "Sobre mí" },
+  { id: "experience", label: "Experiencia" },
   { id: "skills", label: "Skills" },
-  { id: "services", label: "Services" },
-  { id: "education", label: "Education" },
-  { id: "contact", label: "Contact" },
+  { id: "services", label: "Servicios" },
+  { id: "portfolio", label: "Portafolio" },
+  { id: "education", label: "Educación" },
+  { id: "contact", label: "Contacto" },
 ]
 
 export default function FloatingNav() {
@@ -55,11 +56,10 @@ export default function FloatingNav() {
               {label}
             </span>
             <div
-              className={`w-3 h-3 rounded-full transition-all duration-300 ${
-                activeSection === id
+              className={`w-3 h-3 rounded-full transition-all duration-300 ${activeSection === id
                   ? "bg-blue-600 dark:bg-blue-400 scale-125"
                   : "bg-gray-400 dark:bg-gray-600 hover:scale-110"
-              }`}
+                }`}
             />
           </button>
         ))}
