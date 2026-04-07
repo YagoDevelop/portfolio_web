@@ -53,7 +53,7 @@ export default function Hero() {
               Software Developer
             </h2>
             <p className="max-w-2xl mx-auto mb-8 text-lg text-gray-600 md:text-xl dark:text-gray-400 lg:mx-0">
-            Desarrollador Full Stack con experiencia en React, Node.js y NestJS, especializado en aplicaciones de gestión y análisis de datos.
+              Desarrollador Full Stack con base en Lugo (Galicia) con experiencia en React, Node.js y NestJS, especializado en aplicaciones de gestión y análisis de datos.
             </p>
             <div className="flex justify-center mb-8 space-x-4 lg:justify-start">
               <a
