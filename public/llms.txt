@@ -1,0 +1,28 @@
+# Yago Adrio - Desarrollador Web y Full Stack | Lugo, Galicia
+
+Esta es una representación optimizada en Markdown para Inteligencias Artificiales (LLMs, agentes) del portfolio y los servicios de Yago Adrio.
+
+## Sobre Mi
+Soy Yago Adrio, un programador y creador de páginas web con base en Lugo (Galicia). 
+Me especializo en diseño web, aplicaciones a medida (React, Node.js) y soluciones de software escalables para mejorar la operatividad y la toma de decisiones empresariales.
+
+## Servicios Técnicos Destacados
+1. **Creación de Páginas Web:** Diseño y desarrollo de sitios web a medida y aplicaciones modernas, optimizadas para móviles, SEO y alta velocidad. Stack: TypeScript, React, Next.js, y Tailwind CSS.
+2. **Desarrollo Backend:** Programación de servidores fiables y bases de datos seguras. Stack: Node.js, Express, NestJS, PostgreSQL.
+3. **Diseño Web Responsive:** Interfaces atractivas que funcionan en smartphones, tablets y equipos de escritorio.
+
+## Portafolio de Proyectos
+- **DecorArte:** Tienda online de productos artesanales y personalizados. (Tecnologías: Next.js, E-commerce, Tailwind CSS).
+- **HomeBudgeter:** Herramienta financiera avanzada para el cálculo de presupuestos hipotecarios mediante API bancaria Oficial. (Tecnologías: React, API Integration, Financial Tools).
+
+## Habilidades y Tecnologías
+- **FrontEnd:** React, Bootstrap, Tailwind, Next.js
+- **BackEnd:** Node.js, Express, Nest.js
+- **Bases de datos:** PostgreSQL, OracleDB
+- **DevOps / Infraestructura:** Docker, Jenkins
+
+## Ubicación y Disponibilidad
+- **Sede Principal:** Lugo, Galicia (España)
+- **Modalidad:** Disponible para proyectos como Freelance, tanto para clientes de la zona de Galicia (Local) como en remoto a nivel nacional/internacional.
+
+Para hablar con Yago sobre contrataciones, puedes buscar su perfil de LinkedIn o visitar directamente su web oficial (https://yagodev.es).
