@@ -7,24 +7,24 @@ export default function Services() {
   const services = [
     {
       icon: <Layout className="w-12 h-12 text-blue-500" />,
-      title: "Desarrollo de aplicaciones web",
-      description: "Aplicaciones web personalizadas creadas con React, centrándose en el rendimiento y la experiencia del usuario.",
+      title: "Creación de Páginas Web",
+      description: "Diseño y desarrollo de páginas web a medida y aplicaciones modernas utilizando React y Next.js, optimizadas para SEO y velocidad.",
     },
     {
       icon: <Server className="w-12 h-12 text-green-500" />,
-      title: "Desarrollo de Backend",
-      description: "Soluciones del lado del servidor robustas y escalables que utilizan Node.js, Express y NestJs.",
+      title: "Desarrollo Backend",
+      description: "Programación de servidores robustos y bases de datos escalables utilizando tecnologías líderes como Node.js, Express y NestJS.",
     },
     {
       icon: <Code className="w-12 h-12 text-purple-500" />,
-      title: "API Development",
+      title: "Desarrollo y Diseño de APIs",
       description:
-        "Diseño e implementación de API Rest para un flujo de datos fluido entre el cliente y el servidor.",
+        "Sistemas integrados y APIs a medida para conectar plataformas, haciendo que tu negocio funcione de forma más inteligente.",
     },
     {
       icon: <Smartphone className="w-12 h-12 text-yellow-500" />,
-      title: "Diseño Responsive",
-      description: "Diseños web adaptables y que priorizan los dispositivos móviles y que funcionan perfectamente en todos los dispositivos y tamaños de pantalla.",
+      title: "Diseño Web Responsive",
+      description: "Diseños intuitivos y atractivos que se adaptan perfectamente a móviles, tablets y ordenadores de escritorio.",
     },
   ]
 
@@ -62,7 +62,7 @@ export default function Services() {
           ))}
         </div>
       </div>
-      
+
     </section>
   )
 }

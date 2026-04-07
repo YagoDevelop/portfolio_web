@@ -10,9 +10,9 @@ export const metadata = {
   icons: {
     icon: "/favicon.ico",
   },
-  title: "Yago Adrio - Desarrollador Web y Programador en Lugo",
-  description: "Portfolio de Yago Adrio, Desarrollador Full Stack (React, Node.js, NestJS) con base en Lugo, Galicia. Especialista en crear aplicaciones web escalables y eficientes.",
-  keywords: ["Programador Lugo", "Desarrollador Web Lugo", "Desarrollador Full Stack", "React", "Node.js", "NestJS", "Galicia", "Yago Adrio", "Freelance Lugo", "Software Developer Lugo"],
+  title: "Yago Adrio - Creación de Páginas Web y Diseño en Lugo",
+  description: "Yago Adrio, programador web especialista en diseño web, creación de páginas web y desarrollo a medida en Lugo (Galicia).",
+  keywords: ["Programador Lugo", "Páginas Web Lugo", "Diseño Web Lugo", "Creación de páginas web", "Desarrollo Web Lugo", "Desarrollador Full Stack", "Web a medida", "Hacer página web Lugo", "Yago Adrio"],
   authors: [{ name: "Yago Adrio" }],
   openGraph: {
     type: "website",
